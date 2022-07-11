@@ -14,3 +14,4 @@ CQRS Web App ported from .NET Full framework to .NET Core 3.1 and to the recent 
 ## What-not
 
 ![Clean Architecture](CleanArchitecture.jpg)
+![Clean Architecture](Clean-architecture.png)
